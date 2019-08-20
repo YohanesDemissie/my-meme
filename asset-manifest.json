@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/gh-deploy/static/css/main.2cce8147.chunk.css",
-    "main.js": "/gh-deploy/static/js/main.9e4fa3cc.chunk.js",
-    "main.js.map": "/gh-deploy/static/js/main.9e4fa3cc.chunk.js.map",
+    "main.css": "/gh-deploy/static/css/main.a7d3beba.chunk.css",
+    "main.js": "/gh-deploy/static/js/main.953c07ba.chunk.js",
+    "main.js.map": "/gh-deploy/static/js/main.953c07ba.chunk.js.map",
     "runtime~main.js": "/gh-deploy/static/js/runtime~main.88c09b95.js",
     "runtime~main.js.map": "/gh-deploy/static/js/runtime~main.88c09b95.js.map",
-    "static/js/2.900ec463.chunk.js": "/gh-deploy/static/js/2.900ec463.chunk.js",
-    "static/js/2.900ec463.chunk.js.map": "/gh-deploy/static/js/2.900ec463.chunk.js.map",
+    "static/js/2.1bd6c91d.chunk.js": "/gh-deploy/static/js/2.1bd6c91d.chunk.js",
+    "static/js/2.1bd6c91d.chunk.js.map": "/gh-deploy/static/js/2.1bd6c91d.chunk.js.map",
     "index.html": "/gh-deploy/index.html",
-    "precache-manifest.4b3a8eed6008e87220cbaa5cad7c0f0a.js": "/gh-deploy/precache-manifest.4b3a8eed6008e87220cbaa5cad7c0f0a.js",
+    "precache-manifest.41cafba6894f7878385480ef22d4263f.js": "/gh-deploy/precache-manifest.41cafba6894f7878385480ef22d4263f.js",
     "service-worker.js": "/gh-deploy/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/gh-deploy/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/gh-deploy/static/media/logo.5d5d9eef.svg"
+    "static/css/main.a7d3beba.chunk.css.map": "/gh-deploy/static/css/main.a7d3beba.chunk.css.map"
   }
 }
