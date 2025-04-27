@@ -9,8 +9,17 @@ body {
 .instructions-list {
   color: white;
   list-style: none;
+  li {
+    margin-bottom: 10px;
+  }
 }
 
+form.form-inline div {
+  margin-bottom: 10px;
+  label {
+    margin-right: 5px;
+  }
+}
 .meme-button {
   cursor: pointer;
   font-style: italic;
